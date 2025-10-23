@@ -1,0 +1,11 @@
+Input Parameters
+Parameter Used	Minimum	Maximum	Mean (μ)	Std. (σ)				
+Nc	4	60	24.58	13.53
+B (m)	0.8	255	9.82	20.48
+L/B	1	10.6	2.19	1.8
+Df/B	0	3.44	0.53	0.58
+qnet (kPa)	18.32	1532	194.31	157.35
+
+Output Parameters
+Parameter Used	Minimum	Maximum	Mean (μ)	Std. (σ)				
+Sc (mm)	3.3	103.4	20.2	26.1
